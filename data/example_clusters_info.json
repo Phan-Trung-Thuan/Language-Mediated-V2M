@@ -1,0 +1,114 @@
+[
+  {
+    "path": "/kaggle/working/clusters/cluster_1.mp4",
+    "start": 0.0,
+    "end": 16.0,
+    "duration": 16.0,
+    "caption": "A luxurious white yacht cuts through the deep blue ocean under a cloudy sky, creating a sense of adventure and freedom. The camera then shifts to a woman in a vibrant pink outfit, standing on a rocky beach with waves crashing behind her, exuding confidence and allure. She moves gracefully, her long hair flowing as she poses and dances, capturing the essence of summer and joy. The scene transitions to a man wearing a white cap and sunglasses, looking out into the distance with a contemplative expression, suggesting a moment of introspection or anticipation. The final shot returns to the woman on the beach, now sitting on a rock, her legs crossed, and her hand resting on the water, embodying a serene and relaxed mood. The overall atmosphere is one of luxury, romance, and the beauty of nature, with a mix of excitement and calmness. The music should reflect these emotions, starting with high-energy, upbeat beats that build excitement, transitioning to a more melodic and soothing tone as the scenes shift from action to reflection.",
+    "music_features": {
+      "Genre": "Contemporary Pop Fusion",
+      "Mood": "Energetic to Serene",
+      "Style": "Cinematic with Global Influences",
+      "Instruments": "Strings, Percussion, Synth, Acoustic Guitar",
+      "Context": "Starts with bold, rhythmic beats, evolves into flowing melodies"
+    },
+    "musicgen_prompt": "Begin with vibrant, driving rhythms that build into smooth, warm melodies with natural instrument textures and oceanic ambiance.",
+    "thinking": ""
+  },
+  {
+    "path": "/kaggle/working/clusters/cluster_2.mp4",
+    "start": 16.0,
+    "end": 58.791666666666664,
+    "duration": 42.791666666666664,
+    "caption": "The video opens with a serene scene of a woman in a white bikini standing in a pool, her hair flowing gently. The camera then shifts to a man on a boat, wearing a white hat and sunglasses, exuding a relaxed vibe as he looks out at the ocean. The scene transitions to a woman in a pink dress dancing joyfully on a beach, her movements fluid and carefree. She then sits on a rock, playfully interacting with the waves. The next shot shows a woman in a green dress lounging on a yacht, her posture relaxed and content. The video cuts back to the man on the boat, now looking more contemplative. The final scenes depict a group of people, including a man in a football jersey, engaged in casual conversation outside a building. The overall atmosphere is one of leisure and enjoyment, with a mix of relaxation and playful energy. The music should reflect these emotions, with a blend of upbeat, light-hearted tones and moments of calm introspection.",
+    "music_features": {
+      "Genre": "Tropical Pop",
+      "Mood": "Carefree and Reflective",
+      "Style": "Bright, Light, Playful",
+      "Instruments": "Acoustic guitar, light percussion, warm vocals",
+      "Context": "Beachside leisure, joyful movement, relaxed interaction"
+    },
+    "musicgen_prompt": "Upbeat tropical rhythm with playful energy and gentle introspective moments. Flowing melodies match carefree beach activities and calm reflections.",
+    "thinking": ""
+  },
+  {
+    "path": "/kaggle/working/clusters/cluster_3.mp4",
+    "start": 58.791666666666664,
+    "end": 100.66666666666667,
+    "duration": 41.87500000000001,
+    "caption": "The video opens with a close-up of feet shuffling on a patterned floor, setting a rhythmic tone. The scene transitions to an urban backdrop where a group of young men and women gather outside a brick building, engaging in animated conversation and playful gestures. The camera captures their lively interactions, emphasizing camaraderie and youthful energy. As the group disperses, one individual takes center stage, performing expressive hand movements and dance steps, exuding confidence and charisma. The scene shifts to a luxurious yacht, where a man in white lounges, embodying relaxation and leisure. The video then transports us to a serene beach, where a woman in a pink jacket dances joyfully, her movements reflecting freedom and happiness. The final frames show a woman in a bright yellow dress dancing by a pool, her vibrant attire and dynamic movements adding a sense of excitement and celebration. Throughout the video, the atmosphere alternates between high energy and tranquil moments, creating a rich tapestry of emotions and settings that inspire a diverse range of musical expressions.",
+    "music_features": {
+      "Genre": "Electronic Pop",
+      "Mood": "Energetic, Playful, Confident",
+      "Style": "Dance-Pop with Urban Beats",
+      "Instruments": "Synth pads, drums, bass, claps, hand percussion",
+      "Context": "Youthful, vibrant, dynamic transitions between settings"
+    },
+    "musicgen_prompt": "Upbeat electronic beat with rhythmic footfalls and dance-driven energy, evolving from urban chatter to tropical flair",
+    "thinking": ""
+  },
+  {
+    "path": "/kaggle/working/clusters/cluster_4.mp4",
+    "start": 100.66666666666667,
+    "end": 148.70833333333334,
+    "duration": 48.04166666666667,
+    "caption": "A luxurious beachside mansion with an infinity pool sets the stage for a high-energy, romantic scene. A woman in a vibrant pink shirt dances playfully on the sandy shore, her movements fluid and expressive. The camera captures her from various angles as she twirls and gestures, exuding confidence and joy. The scene shifts to the pool where another woman, dressed in a shimmering silver bikini, wades into the water, her hair glistening wet. She approaches a man seated on a lounge chair by the poolside, dressed in white attire and a matching cap. The two share a series of intimate moments, including a tender kiss and playful interactions, highlighting their connection. The setting is serene yet charged with emotion, with the ocean waves providing a soothing backdrop to the intimate exchanges between the characters. The overall atmosphere is one of luxury, romance, and intense energy, suggesting a soundtrack that should be both passionate and dynamic, with a mix of soft, melodic elements and pulsating rhythms to match the visual intensity.",
+    "music_features": {
+      "Genre": "Electronic Pop",
+      "Mood": "Passionate and Energetic",
+      "Style": "Fusion of Synthwave and Contemporary Romance",
+      "Instruments": "Electric pianos, pulsing bass, shimmering strings, warm vocals",
+      "Context": "High-energy romantic interaction with oceanic ambiance"
+    },
+    "musicgen_prompt": "Playful, rhythmic pulses with warm, flowing melodies that match the dance and intimate moments in a luxurious beach setting.",
+    "thinking": ""
+  },
+  {
+    "path": "/kaggle/working/clusters/cluster_5.mp4",
+    "start": 148.70833333333334,
+    "end": 193.75,
+    "duration": 45.04166666666666,
+    "caption": "The video opens with a woman in a white outfit, her hair wet, suggesting she has just emerged from water. The scene quickly shifts to a beach where another woman in a pink dress dances energetically, her movements fluid and expressive against the backdrop of crashing waves. The camera then cuts to a man sitting on a couch in a dimly lit room, appearing relaxed as he watches TV. The scene transitions back to the beach, where the woman continues her dance, her long hair flowing with the wind. \n\nNext, we see a man standing outside a building, wearing a white shirt with \"34\" on it and a blue cap. He gestures animatedly, possibly speaking or singing. The camera then shows a woman in a red dress entering a room, her expression serious. The scene returns to the man on the couch, now more engaged, his posture changing as if reacting to something off-screen. The final shot is of a luxurious house with two cars parked in front, surrounded by palm trees, hinting at wealth and opulence.\n\nThroughout the video, the scenes transition rapidly, creating a dynamic and intense atmosphere. The woman's dance is vibrant and full of energy, contrasting sharply with the man's more subdued reactions. The overall mood oscillates between excitement and contemplation, suggesting a narrative filled with emotion and movement. The music should reflect these shifts, starting with high-energy beats and lively rhythms to match the dance sequences, then slowing down and becoming more introspective as the man's reactions unfold.",
+    "music_features": {
+      "Genre": "Electronic Pop",
+      "Mood": "Energetic to Reflective",
+      "Style": "Dance-Driven with Organic Shifts",
+      "Instruments": "Synth beats, live percussion, ambient textures",
+      "Context": "Dynamic transitions between high-energy dance and introspective moments"
+    },
+    "musicgen_prompt": "Start with pulsing electronic beats and vibrant synth lines, then shift to smooth, flowing melodies with subtle acoustic layers as the scene becomes more contemplative.",
+    "thinking": ""
+  },
+  {
+    "path": "/kaggle/working/clusters/cluster_6.mp4",
+    "start": 193.75,
+    "end": 241.20833333333334,
+    "duration": 47.45833333333334,
+    "caption": "In a luxurious, modern living room with large windows overlooking the ocean, a man in a vibrant red and yellow jacket lounges on a white armchair, exuding confidence and relaxation. He gestures animatedly as he speaks, his movements reflecting a casual yet assertive demeanor. The room is adorned with stylish furniture, including a sleek coffee table and comfortable seating, creating an atmosphere of opulence and leisure. As the camera pans around, a woman in a bikini dances playfully across the room, her movements fluid and energetic, adding a dynamic contrast to the man's calm presence. The scene shifts to a lush, tropical setting where another woman in a red outfit dances under the trees, her movements graceful and expressive. The video then transitions to a serene beach scene where a woman in a pink tracksuit lies on a bed, her relaxed posture suggesting contentment and ease. The overall mood is one of luxury, relaxation, and playful energy, with a mix of calm and vibrant moments that evoke a sense of freedom and enjoyment. The music should capture these emotions, blending elements of upbeat, lively tunes with moments of peaceful, reflective ballads to match the visual transitions seamlessly.",
+    "music_features": {
+      "Genre": "Tropical Fusion",
+      "Mood": "Vibrant and Serene",
+      "Style": "Modern Pop with World Influences",
+      "Instruments": "Acoustic guitar, light percussion, warm vocals",
+      "Context": "Luxurious living room to tropical beach scenes"
+    },
+    "musicgen_prompt": "Upbeat tropical rhythms with smooth, flowing melodies that shift from lively to calm, matching the playful and serene transitions",
+    "thinking": ""
+  },
+  {
+    "path": "/kaggle/working/clusters/cluster_7.mp4",
+    "start": 241.20833333333334,
+    "end": 262.2916666666667,
+    "duration": 21.083333333333343,
+    "caption": "The video opens with a serene beach scene, where gentle waves crash onto the shore under a clear blue sky. The camera then shifts to a woman in a vibrant pink outfit, dancing joyfully on the beach, her long hair flowing freely as she moves. The scene transitions to a lush forest at night, where another woman in a red jacket and white bikini top dances gracefully among the trees, her movements fluid and expressive. The mood shifts dramatically as the next scene shows a man in a dark room, moving rhythmically to the beat of an unseen song, his shadow cast against the walls. The final frame is a stark black screen, creating a moment of suspense or transition. Throughout the video, the scenes evoke a sense of freedom, joy, and mystery, suggesting a narrative that moves from natural beauty to personal expression and finally to a moment of quiet reflection. The music should capture these emotions, starting with uplifting, energetic tones that match the dance sequences, transitioning to a more introspective, subdued mood for the final frame.",
+    "music_features": {
+      "Genre": "Electronic Pop",
+      "Mood": "Uplifting to Introspective",
+      "Style": "Dance to Ambient",
+      "Instruments": "Synths, Pianos, Drums, Strings",
+      "Context": "Starts with energetic, rhythmic beats; fades into calm, atmospheric tones"
+    },
+    "musicgen_prompt": "Begin with vibrant, driving dance rhythms, then transition to smooth, flowing ambient textures with gentle string layers",
+    "thinking": ""
+  }
+]
